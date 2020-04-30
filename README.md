@@ -15,6 +15,9 @@
         }
     };
 ```
+
+[具体代码](https://github.com/xmg520/youdao_js_spider/blob/master/fanyiJs.py)
+
 ####知识点：
 ```javascript
 chrome开发者工具调试操作
