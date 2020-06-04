@@ -25,7 +25,6 @@ hashlib加密操作
 ```
 
 ### 参考文档
-[宝藏up视频](https://www.bilibili.com/video/BV13A411b74e)  
 [文档](https://blog.csdn.net/July_whj/article/details/81588856)
 
 ### 最后
