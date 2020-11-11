@@ -1,7 +1,7 @@
 # 基于有道云翻译的简单破解JS加密
 
 ### 项目实现，通过JS解密实现对有道翻译的反爬虫操作
-####关键js代码：
+#### 关键js代码：
 ```javascript
  var r = function(e) {
         var t = n.md5(navigator.appVersion)
@@ -18,7 +18,7 @@
 
 [具体代码](https://github.com/xmg520/youdao_js_spider/blob/master/fanyiJs.py)
 
-####知识点：
+#### 知识点：
 ```javascript
 chrome开发者工具调试操作
 hashlib加密操作
